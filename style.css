@@ -1,0 +1,56 @@
+.main {
+    background-color: #f4f4f9; /* Light, neutral background */
+}
+
+.main-container {
+    background-color: #ffffff;
+    margin: 0 auto;
+    max-width: 1130px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Subtle shadow for a modern look */
+}
+
+.courses {
+    vertical-align: top;
+    height: 100%;
+    width: 33%;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 20px; /* Add some space between courses */
+}
+
+.buttons {
+    color: #ffffff;
+    background: #0066cc; /* Modern blue color for buttons */
+    padding: 13px 23px;
+    border: none;
+    border-radius: 10px; /* Rounded corners for a modern feel */
+    cursor: pointer;
+    transition: background 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.buttons:hover {
+    background: #005bb5; /* Slightly darker blue on hover */
+}
+
+h1 {
+    color: #333333; /* Dark gray for a softer look than pure black */
+    text-align: center; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.courses-word {
+    font-size: 70px;
+    color: #0066cc; /* Matching the button color for consistency */
+}
+
+img {
+    width: 100%;
+    border-radius: 13px; /* Slightly rounded corners for images */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); /* Subtle shadow for a modern look */
+}
+
+p {
+    color: #555555; /* Dark gray for text, softer on the eyes */
+    line-height: 1.6; /* Improved readability */
+}
